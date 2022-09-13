@@ -20,4 +20,4 @@
 
 Y una foto bien facha:
 
-<https://github.com/Augusto469/Augusto469/blob/master/foto_perfil.png>
+![Foto bien facha](https://github.com/Augusto469/Augusto469/blob/master/foto_perfil.png)
