@@ -15,5 +15,9 @@
 
 #### Estudios
 
-- Estudiante de Ingenieria en Sistemas (ORT).
+- Estudiante de Ingenieria egit Sistemas (ORT).
 - Ingles B2 First.
+
+Y una foto bien facha:
+
+<https://github.com/Augusto469/Augusto469/blob/master/foto_perfil.png>
