@@ -15,7 +15,7 @@
 
 #### Estudios
 
-- Estudiante de Ingenieria egit Sistemas (ORT).
+- Estudiante de Ingenieria en Sistemas (ORT).
 - Ingles B2 First.
 
 Y una foto bien facha:
