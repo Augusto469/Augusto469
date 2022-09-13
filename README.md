@@ -2,8 +2,10 @@
 
 #### Informacion basica
 
+- Augusto Velez.
 - Hombre.
-- 19 años.
+- 19 años (09/04/2003).
+- Vive en Reducto.
 
 #### Hobbies
 
