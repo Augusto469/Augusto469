@@ -1,11 +1,10 @@
 ### README.md de Augusto
 
-#### Informacion basica
+#### Informacion personal
 
-- Augusto Velez.
-- Hombre.
-- 19 años (09/04/2003).
-- Vive en Reducto.
+- Nombre: Augusto Vélez
+- Edad: 19 años
+- Soy de Montevideo, Uruguay
 
 #### Hobbies
 
@@ -15,9 +14,9 @@
 
 #### Estudios
 
-- Estudiante de Ingenieria en Sistemas (ORT).
-- Ingles B2 First.
+- Estudiante de Ingenieria en Sistemas (tercer año en la Universidad ORT Uruguay).
+- Ingles B2 First (En curso para C1).
 
-Y una foto bien facha:
+Y una foto bien facha :D
 
 ![Foto bien facha](https://github.com/Augusto469/Augusto469/blob/master/foto_perfil.png)
